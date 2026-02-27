@@ -1,6 +1,6 @@
 <div align="center">
 
-# Osman Sönmez
+# Osman Sonmez
 ### AML/CFT Compliance Expert | Blockchain Regulatory Specialist | Legal Author
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sonmezlegal)
