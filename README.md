@@ -41,10 +41,10 @@ These repositories represent my contribution to the global compliance community 
 
 ## 📈 Impact
 
-- **6 specialized open-source compliance tools** serving the global regulatory community
+- **6 specialized open-source compliance tools** available to the global community
 - Published author on blockchain regulation and financial crime prevention
 - Technical solutions bridging legal expertise with practical implementation
-- Advancing U.S. national interest in financial crime prevention and sanctions enforcement
+- Contributing to stronger global financial crime prevention infrastructure
 
 ## 📚 Publications & Research
 
