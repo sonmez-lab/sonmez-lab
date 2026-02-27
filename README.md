@@ -1,6 +1,6 @@
 <div align="center">
 
-# Osman Sönmez
+# Osman Sonmez
 ### Attorney, Legal Author & Blockchain Compliance Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sonmezosman)
