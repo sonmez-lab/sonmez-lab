@@ -1,7 +1,7 @@
 <div align="center">
 
-# Osman Sonmez
-### AML/CFT Compliance Expert | Blockchain Regulatory Specialist | Legal Author
+# Osman Sönmez
+### Attorney, Legal Author & Blockchain Compliance Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sonmezosman)
 [![Website](https://img.shields.io/badge/Website-osmansonmez.com-4285F4?style=flat&logo=google-chrome)](https://osmansonmez.com)
@@ -12,9 +12,11 @@
 
 ## 👨‍💼 About Me
 
-I am an **AML/CFT compliance expert** and **legal author** specializing in international sanctions, blockchain regulatory frameworks, and financial crime prevention. Licensed attorney in Turkey with deep expertise in cross-border compliance challenges facing the cryptocurrency industry.
+**Attorney** and **legal author** specializing in international sanctions, blockchain regulatory frameworks, and financial crime prevention. Licensed in Turkey with deep expertise in cross-border compliance challenges facing the cryptocurrency industry.
 
-I build **open-source technical tools** that help organizations worldwide implement robust compliance programs, democratizing access to sophisticated sanctions screening and regulatory monitoring infrastructure.
+**Smart Contract Auditor** with focus on security reviews and compliance integration. Founder of **Sonmez & Partners** (TR) and **Sonmez Consulting LLC** (US).
+
+I build **open-source technical tools** that help organizations worldwide implement robust AML/CFT compliance programs, democratizing access to sophisticated sanctions screening and regulatory monitoring infrastructure.
 
 ## 🎯 Areas of Expertise
 
